@@ -5,13 +5,9 @@
 	<title>Home</title>
 </head>
 <body>
-<h1>
-	Hello world!  
-</h1>
-
 <P>  The time on the server is ${serverTime}. </P>
 	<ul>
-		<li><a href="petui">Ajax @Controller Example</a></li>
+		<li><a href="petui">Go To Pet Entry Page</a></li>
 	</ul>
 </body>
 </html>
